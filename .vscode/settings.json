@@ -1,0 +1,7 @@
+{
+    "Lua.diagnostics.disable": [
+        "unknown-diag-code",
+        "action-after-return"
+    ],
+    "Lua.diagnostics.enable": false
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "$schema": 1,
+    "name": "NICK_PARKER1",
+    "master": true,
+    "password_hash": "$2a$11$ZTht5fW4Raon432rDyhJP.LZFPg.DTGqSvgAVHoT46hSVcfUSCFSi",
+    "providers": {
+      "citizenfx": {
+        "id": "NICK_PARKER1",
+        "identifier": "fivem:12686259",
+        "data": {
+          "name": "NICK_PARKER1",
+          "profile": "https://forum.cfx.re/u/NICK_PARKER1",
+          "nameid": "https://forum.cfx.re/internal/user/12686259",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/nick_parker1/256/4097750_2.png"
+        }
+      },
+      "discord": {
+        "id": "737925855631638549",
+        "identifier": "discord:737925855631638549",
+        "data": {}
+      }
+    },
+    "permissions": []
+  },
+  {
+    "$schema": 1,
+    "name": "nickdeveloper83",
+    "master": false,
+    "password_hash": "$2a$11$fbHPqQpc4xyKDTyMAVdAyO0xTtqKwe6FjU/N9WmEbwGJkJGucJ44G",
+    "providers": {
+      "citizenfx": {
+        "id": "nickdeveloper83",
+        "identifier": "fivem:15369313",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]

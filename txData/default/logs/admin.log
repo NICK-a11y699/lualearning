@@ -1,0 +1,30 @@
+================================================================
+======== txAdmin v7.3.2 atop fxserver 10653 Starting - 28/10/2024, 8:56:14 pm
+================================================================
+[20:56:43][NICK_PARKER1] created admins file
+[20:57:34][NICK_PARKER1] Changing global/fxserver settings via setup stepper.
+[21:29:06][NICK_PARKER1] Adding admin 'nickdeveloper83'.
+[21:29:15][nickdeveloper83] logged in from 127.0.0.1 via cfxre
+[21:29:25][nickdeveloper83] Changing own password.
+[21:29:27][nickdeveloper83] Changing own identifiers.
+[21:30:10][nickdeveloper83] executed "RESTART SERVER"
+[21:32:27][nickdeveloper83] executed "ensure "my_spawn""
+[21:32:32][nickdeveloper83] executed "RESTART SERVER"
+[21:33:14][nickdeveloper83] executed "RESTART SERVER"
+[21:34:29][nickdeveloper83] executed "RESTART SERVER"
+[21:35:33][nickdeveloper83] executed "restart my_spawn"
+[21:39:14][nickdeveloper83] executed "RESTART SERVER"
+[21:56:48][nickdeveloper83] executed "RESTART SERVER"
+[22:55:03][nickdeveloper83] executed "refresh"
+[22:55:04][nickdeveloper83] executed "refresh"
+[22:55:08][nickdeveloper83] executed "RESTART SERVER"
+[22:57:08][nickdeveloper83] executed "refresh"
+[22:57:12][nickdeveloper83] executed "ensure "my_car""
+[22:57:17][nickdeveloper83] executed "RESTART SERVER"
+[23:54:06][nickdeveloper83] executed "refresh"
+[23:54:08][nickdeveloper83] executed "ensure "my_car""
+[23:54:11][nickdeveloper83] executed "ensure "my_weapon""
+[00:13:35][nickdeveloper83] Changing menu settings.
+[00:14:05][nickdeveloper83] executed "RESTART SERVER"
+[00:38:12][nickdeveloper83] executed "RESTART SERVER"
+[00:38:47][nickdeveloper83] executed "RESTART SERVER"
